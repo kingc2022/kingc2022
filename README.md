@@ -10,7 +10,11 @@
 我用的编程语言大多是Processing。因为这是学校教的, 创建GUI也特别容易。关于下载的问题, 你可以到<a href="https://processing.org" target="_blank">Processing官网</a>点击Download按钮, 跳转到<a href="https://processing.org/download" target="_blank">下载页面</a>用鼠标滚轮往下滚找到3.5.4,选择适合你系统的版本, 接下来就慢慢等待下载吧。
 
 -----------
+## 今年汇总 ✨
 
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=kingc2022&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingc2022&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+----------
 # 最重要的是
 
 ## 在我每个项目里 ~~点赞 收藏 投币 关注~~ 点两个大大的***Star***和大大的***Fork*** 你们的支持就是我做~~视频~~项目的最大动力!
