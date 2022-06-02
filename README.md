@@ -10,3 +10,5 @@
 [![Pinned Card](https://github-readme-stats.vercel.app/api/pin/?username=kingc2022&repo=learning-log-new)](https://github.com/kingc2022/learning-log-new)
 [![Pinned Card](https://github-readme-stats.vercel.app/api/pin/?username=kingc2022&repo=FastClone)](https://github.com/kingc2022/FastClone)
 [![Pinned Card](https://github-readme-stats.vercel.app/api/pin/?username=kingc2022&repo=FastGithub)](https://github.com/kingc2022/FastGithub)
+[![Pinned Card](https://github-readme-stats.vercel.app/api/pin/?username=kingc2022&repo=guess)](https://github.com/kingc2022/guess)
+[![Pinned Card](https://github-readme-stats.vercel.app/api/pin/?username=kingc2022&repo=blackboard)](https://github.com/kingc2022/blackboard)
