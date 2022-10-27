@@ -6,7 +6,7 @@
 - 👀 I’m interested in 摆烂、睡觉、摸鱼
 - 🌱 I’m currently learning Python. PHP, 
 - 💞️ I’m looking to collaborate on 一起睡大觉
-- 📫 How to reach me: see kingc2022.github.io
+- 📫 How to reach me: see [kingc2022.github.io](https://kingc2022.github.io)
 
 ## 今年汇总 ✨
 
