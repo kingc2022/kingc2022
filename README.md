@@ -17,7 +17,7 @@
 [![Pinned Card](https://github-readme-stats.vercel.app/api/pin/?username=kingc2022&repo=kingc2022.github.io&show_owner=true)](https://github.com/kingc2022/kingc2022.github.io)
 [![Pinned Card](https://github-readme-stats.vercel.app/api/pin/?username=kingc2022&repo=guess&show_owner=true)](https://github.com/kingc2022/guess)
 [![Pinned Card](https://github-readme-stats.vercel.app/api/pin/?username=kingc2022&repo=blackboard&show_owner=true)](https://github.com/kingc2022/blackboard)
-[![Pinned Card](https://github-readme-stats.vercel.app/api/pin/?username=kingc2022&repo=markdown-guide&show_owner=true)](https://github.com/kingc2022/markdown-guide)
+[![Pinned Card](https://github-readme-stats.vercel.app/api/pin/?username=kingc2022&repo=mefrp-gui&show_owner=true)](https://github.com/kingc2022/mefrp-gui)
 
 ## 常用语言
 
