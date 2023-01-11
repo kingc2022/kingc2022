@@ -99,10 +99,15 @@
 <p align="center">
   <a href="https://www.adobe.com/cn/products/catalog.html#category=creativity-design" target="_blank" rel="noreferrer">
     <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/photoshop.svg" alt="photoshop" width="40" height="40"/>
-    &nbsp;
+  </a>
+  &nbsp;
+  <a href="https://www.adobe.com/cn/products/catalog.html#category=creativity-design" target="_blank" rel="noreferrer">
     <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/premiere.svg" alt="premiere pro" width="40" height="40"/>
-    &nbsp;
+  </a>
+  &nbsp;
+  <a href="https://www.adobe.com/cn/products/catalog.html#category=creativity-design" target="_blank" rel="noreferrer">
     <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/audition.svg" alt="audition" width="40" height="40"/>
+  </a>
   </a>
 </p>
 <br/>
