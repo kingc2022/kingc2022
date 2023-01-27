@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://cyq2.cn](https://cyq2.cn)
 
-- 📫 How to contact me **cyq@mail.cyq2.cn**
+- 📫 How to contact me **cyq@cyq2.cn**
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
