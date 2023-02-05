@@ -8,10 +8,11 @@
 - 🌱 I’m currently learning **Vue, JavaScript, HTML, CSS, PHP, Python, C++, MySQL, TypeScript, Laravel and Django**
 
 - 🔭 I’m looking to collaborate on **摆烂、摸鱼、睡大觉**
-
+<!--
 - 📝 I regularly write articles on [https://cyq2.cn](https://cyq2.cn)
 
 - 📫 How to contact me **cyq@cyq2.cn**
+-->
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
