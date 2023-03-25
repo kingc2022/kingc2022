@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kingc2022</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kingc2022&label=Profile%20views&color=0e75b6&style=flat" alt="kingc2022" /> </p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kingc2022&column=7&margin-w=15" alt="kingc2022" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kingc2022&column=6&margin-w=15" alt="kingc2022" /></p>
 
 - 🔭 I’m currently working on [iVampireSP/lae-ui](https://github.com/iVampireSP/lae-ui)
 
