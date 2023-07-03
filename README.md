@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kingc2022&column=6&margin-w=15" alt="kingc2022" /></p>
 
-- 🔭 I’m currently working on [iVampireSP/lae-ui](https://github.com/iVampireSP/lae-ui)
+<!--- 🔭 I’m currently working on [iVampireSP/lae-ui](https://github.com/iVampireSP/lae-ui)-->
 
 - 🌱 I’m currently learning **Vue, JavaScript, HTML, CSS, PHP, Python, C++, MySQL, TypeScript, Laravel and Django**
 
@@ -94,21 +94,6 @@
   &nbsp;
   <a href="https://jetbrains.com.cn/phpstorm" target="_blank" rel="noreferrer">
     <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/phpstorm.svg" alt="phpstorm" width="40" height="40"/>
-  </a>
-</p>
-<h3 align="center">Media Editor</h3>
-<p align="center">
-  <a href="https://www.adobe.com/cn/products/catalog.html#category=creativity-design" target="_blank" rel="noreferrer">
-    <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/photoshop.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.adobe.com/cn/products/catalog.html#category=creativity-design" target="_blank" rel="noreferrer">
-    <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/premiere.svg" alt="premiere pro" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.adobe.com/cn/products/catalog.html#category=creativity-design" target="_blank" rel="noreferrer">
-    <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/audition.svg" alt="audition" width="40" height="40"/>
-  </a>
   </a>
 </p>
 <br/>
