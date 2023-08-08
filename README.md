@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm kingc2022</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kingc2022&label=Profile%20views&color=0e75b6&style=flat" alt="kingc2022" /> </p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kingc2022&column=7&margin-w=15" alt="kingc2022" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kingc2022&column=8&margin-w=15" alt="kingc2022" /></p>
 
-<!--- 🔭 I’m currently working on [iVampireSP/lae-ui](https://github.com/iVampireSP/lae-ui)-->
+<!--- 🔭 I’m currently working on [LaeCloud/PortIO](https://github.com/LaeCloud/PortIO)-->
 
 - 🌱 I’m currently learning **Vue, JavaScript, HTML, CSS, PHP, Python, C++, MySQL, TypeScript, Laravel and Django**
 
@@ -97,5 +97,11 @@
   </a>
 </p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingc2022&show_icons=true&locale=cn&layout=compact" alt="kingc2022" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kingc2022&show_icons=true&locale=cn" alt="kingc2022" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingc2022&show_icons=true&locale=cn&layout=compact" alt="kingc2022" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingc2022&show_icons=true&layout=compact" alt="kingc2022" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingc2022&show_icons=true&locale=cn" alt="kingc2022" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingc2022&show_icons=true" alt="kingc2022" />
+</p>
