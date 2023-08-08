@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kingc2022&column=8&margin-w=15" alt="kingc2022" /></p>
 
-🔭 I’m currently working on [LaeCloud/PortIO](https://github.com/LaeCloud/PortIO)
+- 🔭 I’m currently working on [LaeCloud/PortIO](https://github.com/LaeCloud/PortIO)
 
 - 🌱 I’m currently learning **Vue, JavaScript, HTML, CSS, PHP, Python, C++, MySQL, TypeScript, Laravel and Django**
 
