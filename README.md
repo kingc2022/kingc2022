@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [LaeCloud/PortIO](https://github.com/LaeCloud/PortIO)
 
-- 🌱 I’m currently learning **Vue, JavaScript, HTML, CSS, PHP, Python, C++, MySQL, TypeScript, Laravel and Django**
+- 🌱 I’m currently learning **Vue, PHP, Python, C++, MySQL, TypeScript, Laravel and Django**
 
 - 🔭 I’m looking to collaborate on **摆烂、摸鱼、睡大觉**
 <!--
@@ -47,7 +47,7 @@
     <img src="https://fastly.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastly.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://fastly.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -66,9 +66,6 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://fastly.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://fastly.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://fastly.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
