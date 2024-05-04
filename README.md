@@ -3,9 +3,9 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kingc2022&column=8&margin-w=15" alt="kingc2022" /></p>
 
-- 🔭 I’m currently working on [LaeCloud/PortIO](https://github.com/LaeCloud/PortIO)
+<!-- - 🔭 I’m currently working on [LaeCloud/PortIO](https://github.com/LaeCloud/PortIO) -->
 
-- 🌱 I’m currently learning **Vue, PHP, Python, C++, MySQL, TypeScript, Laravel and Django**
+- 🌱 I’m currently learning **C++, Django, JavaScript, Laravel, MySQL, PHP, Python, Vue**
 
 - 🔭 I’m looking to collaborate on **摆烂、摸鱼、睡大觉**
 <!--
@@ -30,9 +30,6 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://fastly.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
@@ -78,19 +75,19 @@
   </a>
   &nbsp;
   <a href="https://jetbrains.com.cn/pycharm" target="_blank" rel="noreferrer">
-    <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/pycharm.svg" alt="pycharm" width="40" height="40"/>
+    <img src="https://resources.jetbrains.com.cn/storage/logos/web/pycharm/pycharm.svg" alt="pycharm" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://jetbrains.com.cn/idea" target="_blank" rel="noreferrer">
-    <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/idea.svg" alt="idea" width="40" height="40"/>
+    <img src="https://resources.jetbrains.com.cn/storage/logos/web/intellij-idea/intellij-idea.svg" alt="idea" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://jetbrains.com.cn/webstorm" target="_blank" rel="noreferrer">
-    <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/webstorm.svg" alt="webstorm" width="40" height="40"/>
+    <img src="https://resources.jetbrains.com.cn/storage/logos/web/webstorm/webstorm.svg" alt="webstorm" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://jetbrains.com.cn/phpstorm" target="_blank" rel="noreferrer">
-    <img src="https://fastly.jsdelivr.net/gh/kingc2022/icons@latest/phpstorm.svg" alt="phpstorm" width="40" height="40"/>
+    <img src="https://resources.jetbrains.com.cn/storage/logos/web/phpstorm/phpstorm.svg" alt="phpstorm" width="40" height="40"/>
   </a>
 </p>
 <br/>
