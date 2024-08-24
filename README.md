@@ -82,6 +82,26 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=kingc2022&show_icons=true&count_private=true&hide_border=true&show_icons=true"
+        align="center"
+        style="width: 100%"
+      />
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingc2022&hide_border=true&layout=compact&show_icons=true"
+          align="center"
+          style="width: 100%"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/> 
 
